@@ -1,0 +1,6 @@
+function handleGetPersonsByName(){
+    let url = 'https://localhost:3000/persons/';
+    let name = document.getElementById("txt_name").value.trim();
+    let output = document.getElementById("div_output");
+    makeElementEmpty(output);
+}

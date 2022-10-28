@@ -1,0 +1,27 @@
+
+body {
+    font-family:Helvetica;
+    background-color: beige;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    font-size: 15px;
+}
+
+.rood {
+    background-color: #ff0000;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px;
+}
+
+th {
+    background-color: #ccf5ff;
+    color: #ffffff;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}

@@ -1,0 +1,8 @@
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Github\School\Year 1\Security\PE\Labo 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

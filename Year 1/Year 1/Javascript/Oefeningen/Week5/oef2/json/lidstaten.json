@@ -1,0 +1,86 @@
+
+{
+  "lidstaten": [
+  {
+    "Datum": "01/01/2007",
+    "Land": "Bulgarije",
+    "Bevolking": 7101510,
+    "Munt": "BGN",
+    "Muntcode": 1,
+    "Vlag": "BG"
+  },
+  {
+      "Datum": "01/01/1958",
+      "Land": "Belgie",
+      "Bevolking": 11491346,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "BE"
+  },
+  {
+      "Datum": "01/05/2004",
+      "Land": "Cyprus",
+      "Bevolking": 1221549,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "CY"
+  },
+  {
+      "Datum": "01/01/1973",
+      "Land": "Denemarken",
+      "Bevolking": 5605948,
+      "Munt": "DKK",
+      "Muntcode": 1,
+      "Vlag": "DK"
+  },
+  {
+      "Datum": "01/01/1958",
+      "Land": "Duitsland",
+      "Bevolking": 80594017,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "DE"
+  },
+  {
+      "Datum": "01/05/2004",
+      "Land": "Estland",
+      "Bevolking": 1251581,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "EE"
+  },
+  {
+      "Datum": "01/01/1995",
+      "Land": "Finland",
+      "Bevolking": 5518371,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "FI"
+  },
+  {
+      "Datum": "01/01/1958",
+      "Land": "Frankrijk",
+      "Bevolking": 62814233,
+      "Munt": "EUR",
+      "Muntcode": 0,
+      "Vlag": "FR"
+  },
+    {
+      "Datum": "01/01/2013",
+      "Land": "Kroatie",
+      "Bevolking": 4160123,
+      "Munt": "HRK",
+      "Muntcode": 1,
+      "Vlag": "HR"
+    },
+    {
+      "Datum": "01/01/2004",
+      "Land": "Polen",
+      "Bevolking": 10312489,
+      "Munt": "PLN",
+      "Muntcode": 1,
+      "Vlag": "PL"
+    }
+]
+}
+
